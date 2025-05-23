@@ -7,7 +7,7 @@
 ### 🌟 About Me
 I'm a Computer Engineering student with experience in **backend development** using technologies like **Python, Django, Node.js, TypeScript, and NestJS**. I'm passionate about designing and building scalable architectures that solve complex problems. I also enjoy continuously learning new technologies to optimize processes and improve application performance.
 
-- 🔭 Currently working on: **BlueTeam**.
+- 🔭 Currently working on: ****.
 - 🌱 Currently learning: **Hexagonal Architecture, DDD, and BDD**.
 - 💬 Ask me about: **backend development, RESTful APIs, databases**.
 
